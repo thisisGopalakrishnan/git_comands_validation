@@ -6,14 +6,4 @@ f
 g
 h
 
-child 
-
-
-w
-e
-r
-t
-t	
-new line added
-line added through github
 
