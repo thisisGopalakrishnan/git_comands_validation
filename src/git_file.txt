@@ -6,18 +6,3 @@ f
 g
 h
 
-
-child 
-w
-e
-r
-t
-t	
-
-
-child2
-k
-f
-g
-
-
