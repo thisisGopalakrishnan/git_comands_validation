@@ -15,9 +15,3 @@ t
 t	
 
 
-child2
-k
-f
-g
-
-
